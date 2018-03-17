@@ -1,3 +1,4 @@
 Hi, this file will be the second commit
 Adding a new line to make it my third commit
-Adding a new line on master
+Adding a new line on my-feature-branch and master as part of merge resolution
+
